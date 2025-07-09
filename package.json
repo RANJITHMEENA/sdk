@@ -1,0 +1,11 @@
+{
+  "name": "ai-socket-sdk",
+  "version": "1.0.1",
+  "description": "Stream GPT responses via WebSocket easily in your frontend.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["openai", "websocket", "ai", "stream", "sdk", "gpt", "frontend"],
+  "author": "ranjith_dev <ranjithkumarproton@gmail.com>",
+  "license": "MIT",
+  "files": ["index.js", "README.md"]
+}
