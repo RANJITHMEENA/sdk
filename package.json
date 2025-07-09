@@ -7,5 +7,9 @@
   "keywords": ["openai", "websocket", "ai", "stream", "sdk", "gpt", "frontend"],
   "author": "ranjith_dev <ranjithkumarproton@gmail.com>",
   "license": "MIT",
-  "files": ["index.js", "README.md"]
+  "files": ["index.js", "README.md"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RANJITHMEENA/sdk.git"
+  }
 }
